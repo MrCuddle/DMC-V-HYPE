@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Great+Vibes&effect=destruction:100,200,300,400,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Great+Vibes&effect=fire-animation:100,200,300,400,500,600,700,800,900);
       
 h1{
    font-family: 'Great Vibes', serif;
    font-size: 42px;
    font-weight: 400;
-   font-effect-destruction;           
+   font-effect-fire-animation;           
 }
