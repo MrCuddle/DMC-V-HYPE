@@ -1,10 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Great+Vibes&effect=destruction:100,200,300,400,500,600,700,800,900);
       
-      h1{
-      font-family: 'Great Vibes', serif;
-      font-size: 42px;
-      font-weight: 400;
-             <div class="font-effect-destruction">This is a font effect!<div>
-      font-effect-destruction: 400;
-           
-      }
+h1{
+   font-family: 'Great Vibes', serif;
+   font-size: 42px;
+   font-weight: 400;
+   font-effect-destruction;           
+}
